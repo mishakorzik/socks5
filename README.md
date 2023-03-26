@@ -3,7 +3,8 @@
 ```
 pip install PyYaml
 pip install pick
-wget
+wget https://github.com/mishakorzik/socks5/blob/main/socks5.py?raw=true
+mv socks5.py?raw=true socks5.py
 ```
 
 ## Usage
