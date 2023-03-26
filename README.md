@@ -1,2 +1,21 @@
-# socks5
-Start your socks5 proxy server. 
+## Install 
+
+```
+pip install PyYaml
+pip install pick
+wget
+```
+
+## Usage
+
+**Start your own socks5 proxy server with one command**
+
+```python
+# show help menu
+python3 socks5 --help
+
+# start socks5 proxy with console
+python3 socks5 --console on
+```
+
+**Use is very easy and has a very large functionality. You can also use multihop or ipchanger**
