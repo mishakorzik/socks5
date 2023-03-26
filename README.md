@@ -24,3 +24,5 @@ python3 socks5 --console on
 ```
 
 **Use is very easy and has a very large functionality. You can also use multihop or ipchanger**
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/socks5/count.svg)
