@@ -1,5 +1,6 @@
 ## Install 
 
+**Copy this command and write on your terminal**
 ```
 pip install PyYaml
 pip install pick
