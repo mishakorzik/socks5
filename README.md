@@ -2,8 +2,11 @@
 
 **Copy this command and write on your terminal**
 ```
-pip install PyYaml
+# install python requirements
 pip install pick
+pip install PyYaml
+
+# install socks5 server
 wget https://github.com/mishakorzik/socks5/blob/main/socks5.py?raw=true
 mv socks5.py?raw=true socks5.py
 ```
