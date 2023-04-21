@@ -1,6 +1,6 @@
 ## Install 
 
-**Copy this command and write on your terminal**
+**Copy this command and write on your terminal, use python3.11 for work socks5**
 ```
 # install python requirements
 pip install pick
