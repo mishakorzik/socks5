@@ -3,8 +3,9 @@
 **Copy this command and write on your terminal, use python3.11 for work socks5**
 ```
 # install python requirements
+pip install PySocks
 pip install pick
-pip install PyYaml
+pip install ruamel.yaml
 
 # install socks5 server
 wget https://github.com/mishakorzik/socks5/blob/main/socks5.py?raw=true
