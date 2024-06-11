@@ -17,10 +17,10 @@ mv socks5.py?raw=true socks5.py
 
 ```python
 # show help menu
-python3 socks5 --help
+python3 socks5.py --help
 
 # start socks5 proxy with console
-python3 socks5 --console on
+python3 socks5.py --console on
 ```
 
 **Use is very easy and has a very large functionality. You can also use multihop or ipchanger**
